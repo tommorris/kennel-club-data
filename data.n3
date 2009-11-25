@@ -1,0 +1,8 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix : <#> .
+
+:KennelClubBreed a owl:Class.  
+
+dbpedia:Smooth_Collie a :KennelClubBreed.
